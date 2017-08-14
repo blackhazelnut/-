@@ -1,4 +1,3 @@
 # -
-Singapore pool 4D web-crawler
-To run @ terminal : python main.py
-package used: selenium
+Run "python main.py" in terminal/cmd prompt
+
